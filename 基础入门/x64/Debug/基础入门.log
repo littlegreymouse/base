@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\STUDY\code\基础入门\main.cpp(27,10): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\code\基础入门\main.cpp(85,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\STUDY\code\基础入门\main.cpp(85,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+D:\STUDY\code\基础入门\main.cpp(85,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+D:\STUDY\code\基础入门\main.cpp(85,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+D:\STUDY\code\基础入门\main.cpp(85,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+D:\STUDY\code\基础入门\main.cpp(85,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 3 冲突
+D:\STUDY\code\基础入门\main.cpp(87,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+D:\STUDY\code\基础入门\main.cpp(87,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 2 冲突
+D:\STUDY\code\基础入门\main.cpp(87,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+D:\STUDY\code\基础入门\main.cpp(87,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 3 冲突
+D:\STUDY\code\基础入门\main.cpp(91,20): warning C4101: “crr”: 未引用的局部变量
+D:\STUDY\code\基础入门\main.cpp(115,9): warning C4778: “printf”: 格式字符串“%  \n”未终止
+D:\STUDY\code\基础入门\main.cpp(115,27): warning C4474: printf: 格式字符串中传递的参数太多
+  D:\STUDY\code\基础入门\main.cpp(115,27):
+  占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  基础入门.vcxproj -> D:\STUDY\code\基础入门\x64\Debug\基础入门.exe
